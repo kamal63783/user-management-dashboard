@@ -72,9 +72,6 @@ $ cd user-management-dashboard
 # Install dependencies
 $ npm install
 
-# Run the application in development mode:
-$ npm run dev
-
 # Build the application for production
 $ npm run build
 
@@ -83,6 +80,9 @@ $ npm run start
 
 # Generate a static project
 $ npm run generate
+
+# To run the application in development mode
+$ npm run dev
 ```
 
 ## For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
