@@ -10,7 +10,6 @@ The User Management Dashboard is an application designed to facilitate efficient
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ---
 
