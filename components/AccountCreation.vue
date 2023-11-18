@@ -234,6 +234,7 @@ export default {
     },
     togglePasswordVisibility() {
       this.showPassword = !this.showPassword
+      event.preventDefault()
     },
     handleFieldFocus(fieldName) {
       this.isPasswordFieldFocused = fieldName === 'password'
